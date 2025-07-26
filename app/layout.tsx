@@ -57,7 +57,7 @@ const luckiest = Luckiest_Guy({
 });
 
 export const metadata: Metadata = {
-  title: "Jane Doe | Web Developer",
+  title: "Suryabrata Sahoo | Web Developer",
   description: "Portfolio website of Jane Doe, a web developer specializing in modern web applications.",
   generator: 'v0.dev'
 }

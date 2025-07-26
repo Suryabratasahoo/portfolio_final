@@ -1,7 +1,7 @@
 // api/education/route.ts
 import { NextRequest, NextResponse } from 'next/server';
 import connectDB from '@/lib/connectDb';
-import Education from '@/models/Education';
+import Education from '@/models/education';
 
 // GET handler to retrieve all education data
 export async function GET(request: NextRequest) {

@@ -2,7 +2,7 @@
 
 import connectDB from '@/lib/connectDb';
 import mongoose from 'mongoose';
-import Certification from '@/models/Certification';
+import Certification from '@/models/certification';
 import { NextRequest, NextResponse } from 'next/server';
 
 // GET: Fetch all certifications
